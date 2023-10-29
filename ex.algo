@@ -1,0 +1,13 @@
+ALGORITHM ex
+VAR
+    day:INTEGER;
+    month:INTEGER;
+    year:INTEGER;
+    n:INTEGER;
+BEGIN
+    day:10;
+    month:08;
+    year:23;
+    
+
+END
